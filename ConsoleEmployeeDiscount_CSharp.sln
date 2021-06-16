@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleEmployeeDiscount_CSharp", "ConsoleEmployeeDiscount_CSharp.csproj", "{E66694FD-79EA-42BE-A621-322100FE2ECE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDiscountLibrary", "..\EmployeeDiscountLibrary\EmployeeDiscountLibrary.csproj", "{72E7277C-E0ED-4817-98F0-EE44027CDC12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66694FD-79EA-42BE-A621-322100FE2ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66694FD-79EA-42BE-A621-322100FE2ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66694FD-79EA-42BE-A621-322100FE2ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66694FD-79EA-42BE-A621-322100FE2ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72E7277C-E0ED-4817-98F0-EE44027CDC12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E7277C-E0ED-4817-98F0-EE44027CDC12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E7277C-E0ED-4817-98F0-EE44027CDC12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E7277C-E0ED-4817-98F0-EE44027CDC12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C57FF3-996A-4035-8C2F-E4ABE12EDCC9}
+	EndGlobalSection
+EndGlobal
